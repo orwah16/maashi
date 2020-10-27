@@ -1,4 +1,4 @@
-# maashi
+# maashi - personal project
 it's an android app for keeping track of daily working hours and calculating monthly wage.
 the data is stored locally in sqlite database.
-work is still in progress.
+work is still in progress

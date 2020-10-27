@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">maashi</string>
+    <string name="date">00/00</string>
+    <string name="starting_time">00:00</string>
+    <string name="finishing_time">00:00</string>
+    <string name="number_of_hours">0</string>
+    <string name="total">0.0</string>
+
+
+</resources>
